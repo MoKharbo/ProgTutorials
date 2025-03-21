@@ -4,4 +4,4 @@ tutorial 0 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/L
 
 ![Animation](https://github.com/user-attachments/assets/1bcaa461-2051-4445-a667-23648fcd5b36)
 
-tutorial 0 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Animatie.cs
+tutorial 1 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Animatie.cs
