@@ -8,7 +8,6 @@ tutorial 1 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/A
 
 ![Walkinganimation](https://github.com/user-attachments/assets/e399c5b0-0839-45a4-a2b6-7020c4e0ddeb)
 
-tutorial 2 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/MoveBasic.cs
-           
-           -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Animatie.cs
-
+tutorial 2 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/MoveBasic.cs         
+            
+tutorial 2 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Animatie.cs
