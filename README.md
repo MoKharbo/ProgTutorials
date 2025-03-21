@@ -4,4 +4,10 @@ tutorial 0 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/L
 
 ![Animation](https://github.com/user-attachments/assets/1bcaa461-2051-4445-a667-23648fcd5b36)
 
-tutorial 1 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Animatie.cs
+tutorial 1 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Animate.cs
+
+![Walkinganimation](https://github.com/user-attachments/assets/e399c5b0-0839-45a4-a2b6-7020c4e0ddeb)
+
+tutorial 2 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/MoveBasic.cs         
+            
+tutorial 2 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Animatie.cs
