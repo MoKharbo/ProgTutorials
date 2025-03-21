@@ -206,15 +206,15 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 7da0f9031773c9243b9c2c5eb7979974,
         type: 3}
       insertIndex: -1
+      addedObject: {fileID: 1971001800}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 7da0f9031773c9243b9c2c5eb7979974,
+        type: 3}
+      insertIndex: -1
       addedObject: {fileID: 1971001797}
     - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 7da0f9031773c9243b9c2c5eb7979974,
         type: 3}
       insertIndex: -1
       addedObject: {fileID: 1971001796}
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 7da0f9031773c9243b9c2c5eb7979974,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1971001800}
   m_SourcePrefab: {fileID: 100100000, guid: 7da0f9031773c9243b9c2c5eb7979974, type: 3}
 --- !u!1 &330585543
 GameObject:
@@ -803,8 +803,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7c27ed4ca5115c4f9dbe69918f60b38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
-  rotSpeed: 100
+  speed: 4
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
