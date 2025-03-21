@@ -4,21 +4,38 @@ using UnityEngine;
 
 public class Animatie : MonoBehaviour
 {
-    Animator m_Animator;
+   
+    private Animator ani;
 
-    // Start is called before the first frame update
     void Start()
     {
-        m_Animator = gameObject.GetComponent<Animator>();
+        
+        ani = GetComponent<Animator>();
     }
-
-    // Update is called once per frame
     void Update()
     {
-        if (Input.GetKey(KeyCode.UpArrow))
+       
+        if (Input.GetAxis("Vertical") > 0)
         {
-            m_Animator.ResetTrigger("Idle");
-            m_Animator.SetTrigger("Dying");
+            
+            ani.SetTrigger("Walk");
+            ani.ResetTrigger("Idle");
+            ani.ResetTrigger("WalkR");
+           
+        }
+        else if (Input.GetAxis("Vertical") < 0)
+        {
+           
+            ani.SetTrigger("WalkR");
+            ani.ResetTrigger("Idle");
+            ani.ResetTrigger("Walk");
+        }
+        else
+        {
+          
+            ani.SetTrigger("Idle");
+            ani.ResetTrigger("Walk");
+            ani.ResetTrigger("WalkR");
         }
     }
 }
