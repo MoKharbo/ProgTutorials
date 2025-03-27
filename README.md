@@ -7,7 +7,12 @@ tutorial 0 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/L
 tutorial 1 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Animate.cs
 
 ![Walkinganimation](https://github.com/user-attachments/assets/e399c5b0-0839-45a4-a2b6-7020c4e0ddeb)
+![Walsvffdvdfgretkinganimation](https://github.com/user-attachments/assets/528a8db9-6349-466b-b626-38d10a5f6717)
 
-tutorial 2 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/MoveBasic.cs         
+tutorial 2 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/MoveBasic02.cs         
             
 tutorial 2 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Animatie.cs
+
+![Walsvffdvdfgretkinsdfdsfsdsdfganimation](https://github.com/user-attachments/assets/f2085a20-b008-4c0f-b885-b9d8eeb36854)
+
+tutorial 3 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Jump.cs
