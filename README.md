@@ -16,3 +16,8 @@ tutorial 2 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/A
 ![Walsvffdvdfgretkinsdfdsfsdsdfganimation](https://github.com/user-attachments/assets/f2085a20-b008-4c0f-b885-b9d8eeb36854)
 
 tutorial 3 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Jump.cs
+
+![dvrgbsfbsfsfsfsf](https://github.com/user-attachments/assets/96c0659c-e3c7-45f7-892a-ae49cb4d3215)
+
+tutorial 4 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/KeepScore.cs
+tutorial 4 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/GetPickup.cs
