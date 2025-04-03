@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 5876092351642912248}
   - component: {fileID: 6389808329397939058}
   - component: {fileID: 1851901181063692164}
+  - component: {fileID: 3088455775917458622}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -120,7 +121,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: d6f53b7d07a31c5409183760e3c17b0c, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.45
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -5059,3 +5060,15 @@ ParticleSystemRenderer:
   m_MeshWeighting2: 1
   m_MeshWeighting3: 1
   m_MaskInteraction: 0
+--- !u!114 &3088455775917458622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7429202352197115575}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24736568b8a59714ab05a8e18c340d72, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
