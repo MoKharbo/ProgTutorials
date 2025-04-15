@@ -54,3 +54,7 @@ tutorial 6 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/K
 tutorial 6 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Shoot.cs
 
 tutorial 6 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/TriggerAnimation.cs
+
+![dtjfyfymfykmy](https://github.com/user-attachments/assets/07ea636f-6a46-4bc0-822e-57862d0558e3)
+
+tutorial 7 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Jump.cs
