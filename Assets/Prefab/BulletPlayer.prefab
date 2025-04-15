@@ -19,9 +19,8 @@ GameObject:
   - component: {fileID: 7095457275778579495}
   - component: {fileID: 6599234823626544156}
   - component: {fileID: -5861564485393883349}
-  - component: {fileID: 2986335552901900869}
   m_Layer: 0
-  m_Name: Bullet
+  m_Name: BulletPlayer
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5132,17 +5131,3 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   targetTag: Enemy1
   effect: {fileID: 5579369996253062936, guid: c4f7683b119be6d4098278e1e8724857, type: 3}
---- !u!114 &2986335552901900869
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5196278965188182635}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4fc9a4f791fe076479a38ce898fef87e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  targetTag: Player
-  effect: {fileID: 5579369996253062936, guid: 6039fd51fc0c18c44ba9cbfca9ed9f05, type: 3}
