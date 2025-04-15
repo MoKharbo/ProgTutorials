@@ -47,4 +47,7 @@ tutorial 5 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/K
 
 Mijn canvas heeft harten en de enemies kunnen nu schieten je hebt 4 levens en dan ga je dood
 
-tutorial 6 -
+tutorial 6 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/EnemyShootingBehaviour.cs
+tutorial 6 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/KillOnHit.cs
+tutorial 6 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Shoot.cs
+tutorial 6 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/TriggerAnimation.cs
