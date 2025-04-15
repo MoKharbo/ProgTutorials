@@ -43,7 +43,7 @@ tutorial 5 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/S
 
 tutorial 5 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/KillOnHit.cs
 
-![segrfhethethteh](https://github.com/user-attachments/assets/2bd0c695-9da8-4fa2-9555-94dec2e4b494)
+![fvsbgwrgbwrbrebrb](https://github.com/user-attachments/assets/0014fe08-e957-4ad9-bb2b-464b6f8ef251)
 
 Mijn canvas heeft harten en de enemies kunnen nu schieten je hebt 4 levens en dan ga je dood
 
