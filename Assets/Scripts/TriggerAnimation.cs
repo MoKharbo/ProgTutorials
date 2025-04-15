@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class TriggerAnimation : MonoBehaviour
 {
-    public string triggerName;
-    public float delay = 0f;
+    public float delay = 3f;
     public float resetTime;
     public KeyCode triggerKey = KeyCode.None;
+    private bool canAttack = false;
 
     public Animator animator;
     private AudioSource audioSource;
@@ -15,7 +15,7 @@ public class TriggerAnimation : MonoBehaviour
     void Start()
     {
         animator = GetComponent<Animator>();
-        audioSource = GetComponent<AudioSource>();
+        audioSource = GetComponent<AudioSource>();  
     }
 
     // Update is called once per frame
@@ -25,21 +25,39 @@ public class TriggerAnimation : MonoBehaviour
         {
             CallTrigger();
         }
+
+        if (canAttack)
+        {
+            animator.SetBool("Attack", true);
+        }
+        else
+        {
+            animator.SetBool("Attack", false);
+        }
     }
     public void CallTrigger()
     {
-        StartCoroutine(AwaitDelay(delay));
-        StartCoroutine(AwaitReset(resetTime));
+        StartCoroutine(TriggerSequence());
     }
     private IEnumerator AwaitDelay(float time)
     {
         yield return new WaitForSeconds(time);
-        animator.SetTrigger(triggerName);
+        canAttack = true;
         if (audioSource != null) audioSource.Play();
     }
     private IEnumerator AwaitReset(float time)
     {
         yield return new WaitForSeconds(time);
-        animator.ResetTrigger(triggerName);
+        canAttack = false;
     }
+
+    private IEnumerator TriggerSequence()
+    {
+        yield return new WaitForSeconds(delay);
+        canAttack = true;
+        if (audioSource != null) audioSource.Play();
+        yield return new WaitForSeconds(resetTime);
+        canAttack = false;
+    }
+
 }
