@@ -394,7 +394,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b59f127b12861643879cdc15af075b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  force: 500
+  force: 15
+  gravScaleUp: 10
+  gravScaleDown: 20
   onFloor: 0
 --- !u!114 &65119187
 MonoBehaviour:
@@ -2224,9 +2226,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b176874c0d9b2244b8fba2c12fd33a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  triggerName: Attack
-  delay: 0
-  resetTime: 0
+  delay: 3
+  resetTime: 1
   triggerKey: 0
   animator: {fileID: 1550385371}
 --- !u!95 &1550385371 stripped
@@ -3144,9 +3145,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2928947688876146839, guid: 7774bbf1ff35a814288597ab71ac13f6,
         type: 3}
+      propertyPath: delay
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2928947688876146839, guid: 7774bbf1ff35a814288597ab71ac13f6,
+        type: 3}
       propertyPath: animator
       value: 
       objectReference: {fileID: 1785643975}
+    - target: {fileID: 2928947688876146839, guid: 7774bbf1ff35a814288597ab71ac13f6,
+        type: 3}
+      propertyPath: resetTime
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2928947688876146839, guid: 7774bbf1ff35a814288597ab71ac13f6,
         type: 3}
       propertyPath: triggerName
