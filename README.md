@@ -60,3 +60,12 @@ tutorial 6 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/H
 ![dtjfyfymfykmy](https://github.com/user-attachments/assets/07ea636f-6a46-4bc0-822e-57862d0558e3)
 
 tutorial 7 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Jump.cs
+
+(gif)
+
+tutorial 8 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/TrapTrigger.cs
+
+![fbvfgbrtbr](https://github.com/user-attachments/assets/cda0c1e9-2140-4364-ad7f-4a8da6ef77e1)
+
+tutorial 10 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/MenuController.cs
+
