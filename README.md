@@ -63,7 +63,7 @@ De jump ziet er nu minder floaty uit
 
 tutorial 7 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Jump.cs
 
-(gif)
+![sfgtyjuthrgfdcsfghnjuy7t6grfdcvg](https://github.com/user-attachments/assets/9b33369d-8b9e-4d4a-beae-4681e811beb8)
 
 Een trap aangemaakt die de player launcht als je er op staat
 
