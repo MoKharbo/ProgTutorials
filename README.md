@@ -57,7 +57,7 @@ tutorial 6 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/T
 
 tutorial 6 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Hearts.cs
 
-![dtjfyfymfykmy](https://github.com/user-attachments/assets/07ea636f-6a46-4bc0-822e-57862d0558e3)
+![bfgrtfedscfgt](https://github.com/user-attachments/assets/adb2a02a-338e-4259-9eb1-63dd65d47c22)
 
 De jump ziet er nu minder floaty uit
 
