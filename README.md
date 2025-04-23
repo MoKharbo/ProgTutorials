@@ -43,7 +43,7 @@ tutorial 5 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/S
 
 tutorial 5 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/KillOnHit.cs
 
-![fvsbgwrgbwrbrebrb](https://github.com/user-attachments/assets/0014fe08-e957-4ad9-bb2b-464b6f8ef251)
+![bfgrtfedscfgt](https://github.com/user-attachments/assets/301a7059-649f-4ade-bc9a-40ef13405ffd)
 
 Mijn canvas heeft harten en de enemies kunnen nu schieten je hebt 4 levens en dan ga je dood
 
@@ -57,7 +57,7 @@ tutorial 6 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/T
 
 tutorial 6 -https://github.com/MoKharbo/ProgTutorials/blob/main/Assets/Scripts/Hearts.cs
 
-![bfgrtfedscfgt](https://github.com/user-attachments/assets/adb2a02a-338e-4259-9eb1-63dd65d47c22)
+![dtjfyfymfykmy](https://github.com/user-attachments/assets/1d8aa8ab-fbfe-4b14-859d-8493564f772d)
 
 De jump ziet er nu minder floaty uit
 
